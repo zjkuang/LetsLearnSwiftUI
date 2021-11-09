@@ -1,0 +1,4 @@
+(1) All SwiftUI property wrappers explained and compared
+    https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared
+
+(2)
